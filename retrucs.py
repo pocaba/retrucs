@@ -70,3 +70,4 @@ else:
     # Mostrar els retrucs ordenats
     for retruc in retrucs_ordenats:
         print(f'{retruc["text"]} - {retruc["autor"]} (Idioma: {retruc["idioma"]})\n')
+
